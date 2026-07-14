@@ -37,6 +37,8 @@ body {
   --color-brand-purple: #A917DC;
   --color-brand-black: #000100;
   --color-brand-blue: #4F33CE;
+
+  --color-line: #ffffff6a;
 }
 
 .light {
